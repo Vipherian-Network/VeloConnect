@@ -2,7 +2,7 @@
   <a href="https://github.com/HttpMarco/Aeon"><img src="https://img.shields.io/github/stars/HttpMarco/Aeon?color=10c298" alt="Stars Badge"/></a>
   <a href="https://github.com/HttpMarco/Aeon"><img src="https://img.shields.io/github/forks/HttpMarco/Aeon?color=10c298" alt="Forks Badge"/></a>
   <div>
-    <a href="Tomatolix">SUPPORT DISCORD</a>
+    <a href="https://discord.com/invite/YZ45WMJtuY">SUPPORT DISCORD</a>
   </div>
 </div>
 
